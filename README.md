@@ -1,3 +1,3 @@
-# Animals trading card project
+# "Animals trading card" project
 - Udacity Frontend nano degree project
 - You can access the published version on [GitHub Pages](https://alia-adel.github.io/udacity-fend-animal-trading-cards/)
